@@ -11,7 +11,6 @@ I added a new Input Action called Interact and is how I have the player talk to 
 I have the whole layout covered in the Nav Mesh for the Roommate to walk around.
 I tried to make the light as realistic as possible with you still being able to see.
 Multiple UI Widgets are in this project, I have the inventory, The pop up to talk ect. 
-The Roommate has pawn sensing so if she sees you she comes over to talk to you. 
 I'm far happier with this than I thought I was going to be and put a lot of effot in it to make it something in happy having in my portfolio.
 
 -Atlas Clawthorne
